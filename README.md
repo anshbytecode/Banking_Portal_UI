@@ -20,18 +20,6 @@ A modern banking web application built with Angular that provides a secure and u
 - Chart.js
 - REST API
 
-## Getting Started
-
-```bash
-git clone https://github.com/anshbytecode/Banking_Portal_UI.git
-cd Banking_Portal_UI
-npm install
-npm start
-```
-
-Open: `http://localhost:4200`
-
-> Make sure the Banking Portal API backend is running before starting the UI.
 
 ## Backend Repository
 
